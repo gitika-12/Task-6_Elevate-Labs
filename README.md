@@ -13,7 +13,7 @@ The goal of this task is to analyze the monthly revenue and order volume trends 
   - `order_id` — unique identifier for each order
 
 ## Tools Used
-- PostgreSQL / MySQL / SQLite (any relational database system supporting SQL)
+- MySQL
 
 ## Key Analysis Steps
 - Extract the **month** and **year** from `order_date` to group sales by month.
